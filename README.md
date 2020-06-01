@@ -1,4 +1,4 @@
-#### **项目简介**
+#### *项目简介**
 
 一个基于SpringBoot 2.1.0、SpringCloud、Solr、Redis、ActiveMQ、Angular的前后端分离的分布式商城系统
 
@@ -32,13 +32,5 @@
 - 商家后台系统 pingguoyou-protal-web
 - 门户网站 pingyougo-shop-web
 
-#### 系统预览
 
-![1590740885258](C:\Users\ACER\AppData\Roaming\Typora\typora-user-images\1590740885258.png)
-
-![1590740929775](C:\Users\ACER\AppData\Roaming\Typora\typora-user-images\1590740929775.png)
-
-![1590740964676](C:\Users\ACER\AppData\Roaming\Typora\typora-user-images\1590740964676.png)
-
-![1590740989289](C:\Users\ACER\AppData\Roaming\Typora\typora-user-images\1590740989289.png)
 
